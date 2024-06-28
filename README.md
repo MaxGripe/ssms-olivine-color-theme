@@ -7,7 +7,7 @@ SSMS Olivine Theme
 ## Overview
 Color scheme for SQL Server Management Studio (SSMS). Installation is very simple and only requires few clicks.
 
-![alt text](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/main/readme_files/preview.gif "Preview")
+![alt text](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/master/readme_files/preview.gif "Preview")
 
 ## Importing to SSMS
 Just download the theme from this repository and import into SSMS. If you're not sure how to do this, follow these steps:
@@ -20,7 +20,7 @@ Just download the theme from this repository and import into SSMS. If you're not
 6. On the **Choose a Collection of Settings to Import** panel, click 'Browse', navigate to the downloaded **SSMS_Olivine_Theme.vssettings** file. Click 'Open' and then 'Next'.
 7. On the **Choose Settings to Import** panel, under **Which settings do you want to import?** question, select all options and click 'Finish'.
 
-![alt text](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/main/readme_files/installation.gif "Installation")
+![alt text](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/master/readme_files/installation.gif "Installation")
 
 ## License
 
