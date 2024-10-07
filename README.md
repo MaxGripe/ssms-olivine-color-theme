@@ -1,11 +1,17 @@
-SSMS Olivine Theme
-====
 [![1 file](https://img.shields.io/badge/files-1-blue)](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/main/SSMS_Olivine_Theme.vssettings)
-[![The Unlicense](https://img.shields.io/badge/license-Unlicense-green)](https://unlicense.org/)
-[![Win-64 Platform](https://img.shields.io/badge/platform-win--64-lightgrey)](https://learn.microsoft.com/en-us/sql/ssms/)
+![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/ssms-olivine-color-theme)
+![GitHub License](https://img.shields.io/github/license/MaxGripe/ssms-olivine-color-theme)
+![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/ssms-olivine-color-theme)
+![GitHub forks](https://img.shields.io/github/forks/MaxGripe/ssms-olivine-color-theme)
+![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/ssms-olivine-color-theme)
+
+# SSMS Olivine Theme
+
+Color scheme for SQL Server Management Studio (SSMS). 
 
 ## Overview
-Color scheme for SQL Server Management Studio (SSMS). Installation is very simple and only requires few clicks.
+
+Installation is very simple and only requires few clicks.
 
 ![alt text](https://github.com/MaxGripe/ssms-olivine-color-theme/blob/master/readme_files/preview.gif "Preview")
 
